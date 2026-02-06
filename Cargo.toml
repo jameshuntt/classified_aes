@@ -3,6 +3,13 @@ name = "classified_aes"
 version = "0.1.0"
 edition = "2024"
 
+license = "MIT OR Apache-2.0"
+description = "implementing the classified crate for aes block modes"
+
+authors = ["James Hunt <jameshuntdevelopment@gmail.com>"]
+repository = "https://github.com/jameshuntt/classified_aes"
+
+
 [dependencies]
 aes = "0.8.4"
 aes-gcm = "0.10.3"
