@@ -55,7 +55,7 @@ dependencies = [
 
 [[package]]
 name = "classified"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = [
  "subtle",
  "zeroize",
@@ -63,7 +63,7 @@ dependencies = [
 
 [[package]]
 name = "classified_aes"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = [
  "aes",
  "aes-gcm",
@@ -146,14 +146,14 @@ dependencies = [
 
 [[package]]
 name = "honest"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = [
  "zeroize",
 ]
 
 [[package]]
 name = "honest_aes"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "honest",
  "subtle",
