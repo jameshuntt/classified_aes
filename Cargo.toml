@@ -2,7 +2,7 @@
 name = "classified_aes"
 version = "0.2.1"
 edition = "2021"
-rust-version = "1.70"
+rust-version = "1.71"
 license = "MIT OR Apache-2.0"
 description = "AES with classified keys and plaintexts: honest_aes (no lookup tables) driven by ClassifiedBytes keys, sealing and opening ClassifiedBuffer material with GCM, plus CMAC, CTR and CBC."
 authors = ["James Hunt <james@1o.business>"]
